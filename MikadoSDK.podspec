@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MikadoSDK'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'MikadoSDK is a software development kit (SDK) for iOS gaming apps'
 
 # This description is used to generate tags and improve search results.
