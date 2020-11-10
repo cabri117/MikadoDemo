@@ -21,28 +21,17 @@ Pod::Spec.new do |s|
   MikadoSDK is a software development kit (SDK) for iOS gaming apps that implements the platform’s main features: login, sign up, get the game list and launch games. The SDK simplifies the development of new gaming apps and manages all the backend connections.
                        DESC
 
-  s.homepage         = 'https://danielc3@gitlab.com/prettytechnical/mikado-sdk.git'
+  s.homepage         = 'https://github.com/cabri117/MikadoDemo.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Daniel Cabrera' => 'https://gitlab.com/prettytechnical/mikado-sdk' }
-  s.source           = { :git => 'https://danielc3@gitlab.com/prettytechnical/mikado-sdk.git',  :tag => "0.0.1" }
+  s.source           = { :git => 'https://github.com/cabri117/MikadoDemo.git',  :tag => "0.0.2" }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '12.1'
-  s.static_framework = true
-
-  s.source_files = 'MikadoSDK/**/*'
+  s.ios.vendored_frameworks = 'MikadoSDK.framework'
   s.dependency 'Alamofire', '~> 5.2'
   s.dependency 'SwiftKeychainWrapper'
   s.swift_version = "5" 
-  s.exclude_files = [ './Pods', './Podfile', './Podfile.lock', 'MikadoSDK/**/*.plist' ]
-  #s.public_header_files = 'MikadoSDK'
-  
-  # s.resource_bundles = {
-  #   'MikadoSDK' => ['MikadoSDK/Assets/*.png']
-  # }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
 end
