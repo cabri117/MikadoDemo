@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Daniel Cabrera' => 'https://gitlab.com/prettytechnical/mikado-sdk' }
-  s.source           = { :git => 'https://github.com/cabri117/MikadoDemo.git',  :tag => "0.0.2" }
+  s.source           = { :git => 'https://github.com/cabri117/MikadoDemo.git',  :branch => "develop" , :tag => "0.0.2" }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '12.1'
