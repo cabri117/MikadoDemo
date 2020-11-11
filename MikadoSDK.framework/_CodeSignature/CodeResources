@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		0GhFRLQdu/3vF6ej43ns1mgqARc=
+		</data>
 		<key>.swiftlint.yml</key>
 		<data>
 		bzXTnT6ZvRgamJBJoLjkvc8jtcU=
@@ -20,13 +24,21 @@
 		<data>
 		XtKsB/dQg2Sao1ZTLGuWquzkRgM=
 		</data>
+		<key>Modules/MikadoSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<data>
+		+SbxZk8GRaY+nhtv0XFy5glxpCE=
+		</data>
+		<key>Modules/MikadoSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<data>
+		+SbxZk8GRaY+nhtv0XFy5glxpCE=
+		</data>
 		<key>Modules/MikadoSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
 		4/JVnuCOy7l/z80mKTikY359hGo=
 		</data>
 		<key>Modules/MikadoSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		BbRoROteT92xPp77dDig9Nrp8bY=
+		YnppW4AEvY3ck2gbx2GbTPYycK4=
 		</data>
 		<key>Modules/MikadoSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -34,7 +46,7 @@
 		</data>
 		<key>Modules/MikadoSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		BbRoROteT92xPp77dDig9Nrp8bY=
+		YnppW4AEvY3ck2gbx2GbTPYycK4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -64,6 +76,20 @@
 			qeNL0owm3bptoQuDOtJr/fTaboh7tChaFZguew0HzWY=
 			</data>
 		</dict>
+		<key>Modules/MikadoSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ncuoq5/9hcjDnQqvxBgj+fX/jqi1nrPWm8wQ6Z48BTU=
+			</data>
+		</dict>
+		<key>Modules/MikadoSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ncuoq5/9hcjDnQqvxBgj+fX/jqi1nrPWm8wQ6Z48BTU=
+			</data>
+		</dict>
 		<key>Modules/MikadoSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
@@ -75,7 +101,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			r6kjfJC3G8q1clYURHmlbNjwAJ/MxDaZed/sfxk0pNs=
+			eRvT1n2QxBWZlNdS/EyZmmIUWrE4Hf8/8ddFjLvDFIE=
 			</data>
 		</dict>
 		<key>Modules/MikadoSDK.swiftmodule/arm64.swiftdoc</key>
@@ -89,7 +115,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			r6kjfJC3G8q1clYURHmlbNjwAJ/MxDaZed/sfxk0pNs=
+			eRvT1n2QxBWZlNdS/EyZmmIUWrE4Hf8/8ddFjLvDFIE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
